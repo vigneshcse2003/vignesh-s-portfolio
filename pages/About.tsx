@@ -101,7 +101,7 @@ const About: React.FC = () => {
                     <div className="w-32 h-32 rounded-full p-1 bg-gradient-to-br from-neon-purple to-neon-cyan mb-6">
                         <div className="w-full h-full rounded-full bg-black overflow-hidden relative">
                              {/* Placeholder Avatar */}
-                             <img src="..\assets\avatar.jpg" alt="Profile" className="w-full h-full object-cover opacity-80 hover:opacity-100 transition-opacity" />
+                             <img src="../assets/avatar.jpg" alt="Profile" className="w-full h-full object-cover opacity-80 hover:opacity-100 transition-opacity" />
                         </div>
                     </div>
 
